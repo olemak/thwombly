@@ -27,7 +27,7 @@ Thwombly will replace the content of that element with a more fun typography and
   type= edgy | preachy | rawhide - *required*
   image= url to suitable image
   font= name of a font on Google Fonts
-}
+}>Text to be Thwomblyfied</p>
 ```
 
 ### Why is it called "Thwombly"?
