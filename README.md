@@ -14,11 +14,10 @@ or
 `<script src="I hope we get a CDN dot min dot js">`
 
 ### Then:
-`
 <p data-thwombly={type="edgy"}>Stack them letters hon</p>
 <p data-thwombly={type="preachy", image="image.jpg"}>Background images and cutout text</p>
 <div data-thwombly={type="rawhide"}>Put it in any tag</div>
-`
+
 Thwombly will replace the content of that element with a more fun typography and cool effects. Sorta full with Kinda deal works best, and inline elements are probably not a great idea, but do what you want, it's your site.
 
 ### Api
